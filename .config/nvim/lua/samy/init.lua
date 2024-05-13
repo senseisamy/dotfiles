@@ -1,0 +1,5 @@
+require("samy.remap")
+require("samy.lazy")
+require("samy.treesitter")
+require("samy.lsp")
+require("samy.telescope")

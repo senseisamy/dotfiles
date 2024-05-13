@@ -1,0 +1,16 @@
+add_newline = false
+format = '$username@$hostname $directory$git_branch '
+
+[username]
+format = "[$user](181 bold)"
+show_always = true
+
+[hostname]
+ssh_only = false
+format = "[$hostname](white)"
+
+[directory]
+format = "[$path](111 bold)"
+
+[git_branch]
+format = '[ \($branch\)](white)'
