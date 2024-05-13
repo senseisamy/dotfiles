@@ -1,5 +1,5 @@
 add_newline = false
-format = '$username@$hostname $directory$git_branch '
+format = '$username@$hostname $directory$git_branch\$ '
 
 [username]
 format = "[$user](181 bold)"
@@ -13,4 +13,4 @@ format = "[$hostname](white)"
 format = "[$path](111 bold)"
 
 [git_branch]
-format = '[ \($branch\)](white)'
+format = '[\($branch\)](white)'
