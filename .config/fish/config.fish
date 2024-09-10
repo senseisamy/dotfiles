@@ -10,8 +10,4 @@ alias valg_l="valgrind --leak-check=full"
 
 alias clipboard="xclip -selection clipboard"
 
-alias vim nvim
-
-alias nvim nvim.appimage
-
 starship init fish | source
