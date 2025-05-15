@@ -10,3 +10,4 @@ set.relativenumber = true
 set.tabstop = 4
 set.shiftwidth = 4
 set.autoindent = true
+set.expandtab = false
